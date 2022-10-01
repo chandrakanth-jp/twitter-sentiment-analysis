@@ -1,0 +1,11 @@
+pandas
+tweepy==3.10
+pymongo
+python-decouple
+torch 
+torchvision 
+transformers
+matplotlib
+scipy
+dnspython
+kafka-python
