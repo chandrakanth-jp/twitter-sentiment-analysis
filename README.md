@@ -1,8 +1,10 @@
 # twitter-sentiment-analysis
 Twitter sentiment analysis application using Kafka, Hugging Face, MongoDB Atlas, Streamlit, containerized with Docker.
 
+## Pipeline
 ![Architecture](/images/streampipeline.png)
 
+## Streamlit dashboard
 ![Streamlit dashboard](/images/streamlit_dashboard.PNG)
 
 ## Components
